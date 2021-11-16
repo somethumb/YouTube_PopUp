@@ -1,1 +1,31 @@
-"main": "YouTubePopUp.jquery.js"
+{
+  "name": "youtube_popup",
+  "version": "1.0.2",
+  "description": "jQuery plugin to display YouTube video or Vimeo video in PopUp, responsive & retina, Compatible with WordPress, Autoplay support, easy to use.",
+  "main": "YouTubePopUp.jquery.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somethumb/YouTube_PopUp.git"
+  },
+  "keywords": [
+    "youtube",
+    "vimeo",
+    "popup",
+    "js",
+  ],
+  "author": "QassimHassan",
+  "contributors": [
+    {
+      "name": "scott weiss",
+      "email": "scott@somethumb.com",
+      "url": "https://github.com/somethumb/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somethumb/YouTube_PopUp/issues"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.12.1"
+  }
+}
